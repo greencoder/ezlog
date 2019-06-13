@@ -19,7 +19,7 @@ logger.info('This is an informational message')
 logger.debug('This is a debugging message')
 ```
 
-_Note: The console level defaults to `debug` , the file level defaults to `info`_
+_Note: The console level defaults to `debug`, the file level defaults to `info`._
 
 ## Contributing
 
