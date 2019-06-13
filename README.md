@@ -13,7 +13,7 @@ Setting up EZLog is very simple:
 ```
 import ezlog
 
-logger = ezlog.EZLog('<filename>', console_level='debug|info|warn|error', file_level='debug|info|warn|error')
+logger = ezlog.Logger('<filename>', console_level='debug|info|warn|error', file_level='debug|info|warn|error')
 
 logger.info('This is an informational message')
 logger.debug('This is a debugging message')
