@@ -1,13 +1,13 @@
 from distutils.core import setup
 
 setup(
-    name='EZLog',
+    name='EZLogs',
     version='1.0',
-    packages=['ezlog',],
+    packages=['ezlogs',],
     license='MIT',
     description='A simple wrapper around the Python logging module',
-    url='https://github.com/greencoder/ezlog',
-    download_url='https://github.com/greencoder/ezlog/archive/1.0.tar.gz',
+    url='https://github.com/greencoder/ezlogs',
+    download_url='https://github.com/greencoder/ezlogs/archive/1.0.tar.gz',
     author='Scott Newman',
     author_email='snewman18@gmail.com',
 )
