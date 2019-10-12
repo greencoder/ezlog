@@ -1,1 +1,1 @@
-from .ezlog import Logger
+from .ezlogs import Logger
