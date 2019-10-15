@@ -51,7 +51,7 @@ class Logger(object):
 
 
     def warn(self, msg):
-        self.logger.warn(msg)
+        self.logger.warning(msg)
 
 
     def error(self, msg):
