@@ -6,6 +6,12 @@ A (very) simple wrapper around Python's logger
 
 I got tired of the lengthy boilerplate code required to set up logging to both the console and the filesystem. This wrapper simplifies that.
 
+## Installation
+
+```
+$ pip install ezlogs
+```
+
 ## Usage
 
 Setting up EZLogs is very simple:
